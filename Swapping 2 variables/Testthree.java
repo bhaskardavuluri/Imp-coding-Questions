@@ -7,7 +7,7 @@ public class Testthree {
          a=b;//a=20
          b=c;//b=10
          System.out.println(a); //20
-         System.out.println(b); //10
+         System.out.println(b); //
 
     }
     
