@@ -7,6 +7,6 @@ public class Testfour {
         b=a-b;//10
         a=a-b;//20
         System.out.println(a);
-        System.out.println(b);
+        System.out.println(b)
     }
 }
